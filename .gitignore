@@ -1,0 +1,20 @@
+stack/vendor/
+__pycache__/
+*.pyc
+harness/runs/
+.pytest_cache/
+data/raw/
+.env
+.env.*
+*api_key*
+data/external/
+data/step1/
+.DS_Store
+# downloaded from Hugging Face (README, Setup)
+step1/data/anchors.jsonl
+step1/data/*/questions.jsonl
+step1/data/*/gold.jsonl
+step1/data/*/facts.jsonl
+step1/data/.cache/
+hf/
+pilot/annotation/

@@ -1,0 +1,229 @@
+<SEC-DOCUMENT>0001140361-23-013281.txt : 20230323
+<SEC-HEADER>0001140361-23-013281.hdr.sgml : 20230323
+<ACCEPTANCE-DATETIME>20230323112745
+ACCESSION NUMBER:		0001140361-23-013281
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20211231
+FILED AS OF DATE:		20230323
+DATE AS OF CHANGE:		20230323
+EFFECTIVENESS DATE:		20230323
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			METLIFE INC
+		CENTRAL INDEX KEY:			0001099219
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		IRS NUMBER:				134075851
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-18621
+		FILM NUMBER:		23755001
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10166
+		BUSINESS PHONE:		212-578-5500
+
+	MAIL ADDRESS:	
+		STREET 1:		200 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10166
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns:com="http://www.sec.gov/edgar/common" xmlns="http://www.sec.gov/edgar/thirteenffiler">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <filer>
+        <credentials>
+          <cik>0001099219</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2021</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2021</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>METLIFE INC</name>
+        <address>
+          <com:street1>200 PARK AVENUE</com:street1>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10166</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F COMBINATION REPORT</reportType>
+      <form13FFileNumber>028-18621</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <cik>0000931588</cik>
+          <form13FFileNumber>028-16107</form13FFileNumber>
+          <name>PROVIDA PENSION FUND ADMINISTRATOR</name>
+        </otherManager>
+        <otherManager>
+          <cik>0000728618</cik>
+          <form13FFileNumber>028-00491</form13FFileNumber>
+          <name>METROPOLITAN LIFE INSURANCE CO/NY</name>
+        </otherManager>
+        <otherManager>
+          <cik>0001529735</cik>
+          <form13FFileNumber>028-18628</form13FFileNumber>
+          <crdNumber>000142463</crdNumber>
+          <secFileNumber>801-67314</secFileNumber>
+          <name>MetLife Investment Management, LLC</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>Y</provideInfoForInstruction5>
+      <additionalInformation>MetLife, Inc. is the parent holding company of certain institutional investment managers.  MetLife, Inc. is filing this 13F Combination Report to reflect Section 13(f) securities for which one of such institutional investment managers exercises investment discretion, however where such manager does not exceed the $100 million filing threshold and thus does not meet the criteria for being an Other Included Manager.  Other institutional investment managers for which MetLife, Inc. is the parent holding company file separate 13F Holdings Reports.
+
+MetLife, Inc. is the parent holding company of certain institutional investment managers. For purposes of the reporting requirements under Section 13(f) of the Securities Exchange Act of 1934 (the Act), and the rules promulgated thereunder, MetLife, Inc. itself does not exercise, and therefore disclaims, investment discretion with respect to any Section 13(f) securities positions over which its investment operating subsidiaries exercise such discretion. To the extent, however, that MetLife Inc.'s ownership interest in such subsidiaries may nevertheless give rise to a Form 13F obligation on behalf of MetLife, Inc., the information required by Form 13F is reported herein on behalf of all such subsidiaries.</additionalInformation>
+    </coverPage>
+    <signatureBlock>
+      <name>Steven Goulart</name>
+      <title>EVP &amp; Chief Investment Officer</title>
+      <phone>973-355-4814</phone>
+      <signature>/s/ Steven Goulart</signature>
+      <city>WHIPPANY</city>
+      <stateOrCountry>NJ</stateOrCountry>
+      <signatureDate>03-22-2023</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>6</tableEntryTotal>
+      <tableValueTotal>11019796</tableValueTotal>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>informationtable.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="utf-8"?>
+<informationTable xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+    <infoTable>
+        <nameOfIssuer>ISHARES MSCI CHILE ETF</nameOfIssuer>
+        <titleOfClass>COM</titleOfClass>
+        <cusip>464286640</cusip>
+        <value>2049983</value>
+        <shrsOrPrnAmt>
+            <sshPrnamt>98000</sshPrnamt>
+            <sshPrnamtType>SH</sshPrnamtType>
+        </shrsOrPrnAmt>
+        <investmentDiscretion>DFND</investmentDiscretion>
+        <votingAuthority>
+            <Sole>0</Sole>
+            <Shared>98000</Shared>
+            <None>0</None>
+        </votingAuthority>
+    </infoTable>
+    <infoTable>
+        <nameOfIssuer>ISHARES MSCI PACIFIC EX JAPAN ETF</nameOfIssuer>
+        <titleOfClass>COM</titleOfClass>
+        <cusip>464286665</cusip>
+        <value>598969</value>
+        <shrsOrPrnAmt>
+            <sshPrnamt>12592</sshPrnamt>
+            <sshPrnamtType>SH</sshPrnamtType>
+        </shrsOrPrnAmt>
+        <investmentDiscretion>DFND</investmentDiscretion>
+        <votingAuthority>
+            <Sole>0</Sole>
+            <Shared>12592</Shared>
+            <None>0</None>
+        </votingAuthority>
+    </infoTable>
+    <infoTable>
+        <nameOfIssuer>ISHARES LATIN AMERICA ETF</nameOfIssuer>
+        <titleOfClass>COM</titleOfClass>
+        <cusip>464287390</cusip>
+        <value>2486808</value>
+        <shrsOrPrnAmt>
+            <sshPrnamt>92502</sshPrnamt>
+            <sshPrnamtType>SH</sshPrnamtType>
+        </shrsOrPrnAmt>
+        <investmentDiscretion>DFND</investmentDiscretion>
+        <votingAuthority>
+            <Sole>0</Sole>
+            <Shared>92502</Shared>
+            <None>0</None>
+        </votingAuthority>
+    </infoTable>
+    <infoTable>
+        <nameOfIssuer>ISHARES EUROPE ETF TRUST</nameOfIssuer>
+        <titleOfClass>COM</titleOfClass>
+        <cusip>464287861</cusip>
+        <value>743478</value>
+        <shrsOrPrnAmt>
+            <sshPrnamt>14555</sshPrnamt>
+            <sshPrnamtType>SH</sshPrnamtType>
+        </shrsOrPrnAmt>
+        <investmentDiscretion>DFND</investmentDiscretion>
+        <votingAuthority>
+            <Sole>0</Sole>
+            <Shared>14555</Shared>
+            <None>0</None>
+        </votingAuthority>
+    </infoTable>
+    <infoTable>
+        <nameOfIssuer>ISHARES MSCI JAPAN ETF</nameOfIssuer>
+        <titleOfClass>COM</titleOfClass>
+        <cusip>46434G822</cusip>
+        <value>895357</value>
+        <shrsOrPrnAmt>
+            <sshPrnamt>12983</sshPrnamt>
+            <sshPrnamtType>SH</sshPrnamtType>
+        </shrsOrPrnAmt>
+        <investmentDiscretion>DFND</investmentDiscretion>
+        <votingAuthority>
+            <Sole>0</Sole>
+            <Shared>12983</Shared>
+            <None>0</None>
+        </votingAuthority>
+    </infoTable>
+    <infoTable>
+        <nameOfIssuer>SPDR S&amp;P ETF TRUST</nameOfIssuer>
+        <titleOfClass>COM</titleOfClass>
+        <cusip>78462F103</cusip>
+        <value>4245201</value>
+        <shrsOrPrnAmt>
+            <sshPrnamt>9866</sshPrnamt>
+            <sshPrnamtType>SH</sshPrnamtType>
+        </shrsOrPrnAmt>
+        <investmentDiscretion>DFND</investmentDiscretion>
+        <votingAuthority>
+            <Sole>0</Sole>
+            <Shared>9866</Shared>
+            <None>0</None>
+        </votingAuthority>
+    </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

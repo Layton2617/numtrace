@@ -1,0 +1,82 @@
+<SEC-DOCUMENT>0009000002-23-000001.txt : 20230210
+<SEC-HEADER>0009000002-23-000001.hdr.sgml : 20230210
+ACCESSION NUMBER:		0009000002-23-000001
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230210
+
+FILER:
+	COMPANY DATA:
+		COMPANY CONFORMED NAME:			SYNTHETIC ALPHA ADVISERS LLC
+		CENTRAL INDEX KEY:			0009000002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <filer><credentials><cik>0009000002</cik><ccc>XXXXXXXX</ccc></credentials></filer>
+      <periodOfReport>12-31-2022</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2022</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>SYNTHETIC ALPHA ADVISERS LLC</name>
+        <address><com:street1>1 EXAMPLE PLAZA</com:street1><com:city>NEW YORK</com:city>
+        <com:stateOrCountry>NY</com:stateOrCountry><com:zipCode>10001</com:zipCode></address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-90002</form13FFileNumber>
+      
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>JANE DOE</name><title>CCO</title><phone>212-555-0100</phone>
+      <signature>/s/ Jane Doe</signature><city>NEW YORK</city><stateOrCountry>NY</stateOrCountry>
+      <signatureDate>02-10-2023</signatureDate>
+    </signatureBlock>
+    <summaryPage><otherIncludedManagersCount>0</otherIncludedManagersCount><tableEntryTotal>2</tableEntryTotal><tableValueTotal>2800000</tableValueTotal><isConfidentialOmitted>false</isConfidentialOmitted></summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>infotable.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+  <infoTable>
+    <nameOfIssuer>SHARED CO</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>99999C103</cusip>
+    <value>2100000</value>
+    <shrsOrPrnAmt><sshPrnamt>50000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority><Sole>0</Sole><Shared>50000</Shared><None>0</None></votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>B ONLY CO</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>99999E105</cusip>
+    <value>700000</value>
+    <shrsOrPrnAmt><sshPrnamt>7000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority><Sole>7000</Sole><Shared>0</Shared><None>0</None></votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

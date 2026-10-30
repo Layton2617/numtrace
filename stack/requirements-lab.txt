@@ -1,0 +1,12 @@
+# Lab infra only (needs huggingface.co / model APIs / sec.gov). Not needed for the offline stack.
+# Install on top of requirements.txt in a separate venv (SummaC pins huggingface-hub<=0.28).
+torch>=2.2            # CPU is enough for SummaC-ZS on ~25k claims; GPU recommended for SummaC-Conv
+transformers>=4.40,<5
+huggingface-hub<=0.28.0
+nltk>=3.6.6
+sentencepiece
+protobuf
+summac==0.0.4         # or: pip install -e vendor/summac  (commit c1f3da93)
+openai                # GPT + DeepSeek (OpenAI-compatible endpoint) via inspect_ai providers
+anthropic             # Claude via inspect_ai provider
+tiktoken              # inspect_ai token counting; needs openaipublic.blob.core.windows.net once

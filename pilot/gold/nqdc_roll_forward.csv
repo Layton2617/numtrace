@@ -1,0 +1,12 @@
+entity,executive,plan,status,expected_balance,reported_balance,difference,note
+TGT,Brian C. Cornell,,ok,8005585.0,8005585.0,0.0,
+TGT,Jim Lee,,ok,112695.0,112695.0,0.0,
+TGT,Michael J. Fiddelke,,ok,2387966.0,2387966.0,0.0,
+TGT,Richard H. Gomez,,ok,2198073.0,2198073.0,0.0,
+TGT,Melissa K. Kremer,,not_checkable,,6389879.0,,prior-year balance unavailable
+TGT,Amy Tu,,ok,1.0,0.0,-1.0,
+CMCSA,Brian L. Roberts,,ok,168177085.0,168177085.0,0.0,
+CMCSA,Michael J. Cavanagh,,ok,43321897.0,43321897.0,0.0,
+CMCSA,Jason S. Armstrong,,ok,14379332.0,14379332.0,0.0,
+CMCSA,Thomas J. Reid,,ok,1523146.0,1523145.0,-1.0,
+CMCSA,Jennifer Khoury,,ok,4306525.0,4306525.0,0.0,

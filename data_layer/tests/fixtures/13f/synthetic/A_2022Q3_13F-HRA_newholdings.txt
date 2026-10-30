@@ -1,0 +1,75 @@
+<SEC-DOCUMENT>0009000001-23-000002.txt : 20230220
+<SEC-HEADER>0009000001-23-000002.hdr.sgml : 20230220
+ACCESSION NUMBER:		0009000001-23-000002
+CONFORMED SUBMISSION TYPE:	13F-HR/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20220930
+FILED AS OF DATE:		20230220
+
+FILER:
+	COMPANY DATA:
+		COMPANY CONFORMED NAME:			SYNTHETIC ALPHA CAPITAL LP
+		CENTRAL INDEX KEY:			0009000001
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR/A</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <filer><credentials><cik>0009000001</cik><ccc>XXXXXXXX</ccc></credentials></filer>
+      <periodOfReport>09-30-2022</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>09-30-2022</reportCalendarOrQuarter>
+      <isAmendment>true</isAmendment><amendmentNo>1</amendmentNo><amendmentInfo><amendmentType>NEW HOLDINGS</amendmentType></amendmentInfo>
+      <filingManager>
+        <name>SYNTHETIC ALPHA CAPITAL LP</name>
+        <address><com:street1>1 EXAMPLE PLAZA</com:street1><com:city>NEW YORK</com:city>
+        <com:stateOrCountry>NY</com:stateOrCountry><com:zipCode>10001</com:zipCode></address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-90001</form13FFileNumber>
+      
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>JANE DOE</name><title>CCO</title><phone>212-555-0100</phone>
+      <signature>/s/ Jane Doe</signature><city>NEW YORK</city><stateOrCountry>NY</stateOrCountry>
+      <signatureDate>02-20-2023</signatureDate>
+    </signatureBlock>
+    <summaryPage><otherIncludedManagersCount>0</otherIncludedManagersCount><tableEntryTotal>1</tableEntryTotal><tableValueTotal>3000000</tableValueTotal><isConfidentialOmitted>false</isConfidentialOmitted></summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>infotable.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+  <infoTable>
+    <nameOfIssuer>NEWCO INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>99999D104</cusip>
+    <value>3000000</value>
+    <shrsOrPrnAmt><sshPrnamt>20000</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority><Sole>20000</Sole><Shared>0</Shared><None>0</None></votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

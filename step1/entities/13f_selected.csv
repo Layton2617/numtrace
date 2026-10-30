@@ -1,0 +1,31 @@
+key,cik,name,short,kind,main,boundary,status
+ELLIOTT,1791786,Elliott Investment Management L.P.,Elliott Investment Management,activist,Y,Y,final
+BIGLARI,1334429,Biglari Capital Corp.,Biglari Capital,activist,Y,Y,final
+ICAHN,921669,Carl C. Icahn,Carl Icahn,activist,Y,,final
+STARBOARD,1517137,Starboard Value LP,Starboard Value,activist,Y,Y,final
+TRIAN,1345471,"Trian Fund Management, L.P.",Trian Fund Management,activist,Y,Y,final
+VALUEACT,1418814,"ValueAct Holdings, L.P.",ValueAct,activist,Y,Y,final
+PSCM,1336528,"Pershing Square Capital Management, L.P.",Pershing Square,activist,Y,Y,final
+BX,1393818,Blackstone Inc.,Blackstone,asset_mgr,Y,,final
+AMP,820027,"Ameriprise Financial, Inc.",Ameriprise Financial,asset_mgr,Y,Y,final
+TROY,1601407,Troy Asset Management Ltd,Troy Asset Management,asset_mgr,Y,Y,final
+NOMURA,1163653,"Nomura Holdings, Inc.",Nomura Holdings,bank,Y,,final
+GS,886982,"The Goldman Sachs Group, Inc.",Goldman Sachs,bank,Y,,final
+JEF,96223,Jefferies Financial Group Inc.,Jefferies Financial Group,bank,Y,Y,final
+BARC,312069,Barclays PLC,Barclays,bank,Y,Y,final
+TEMASEK,1021944,Temasek Holdings (Private) Limited,Temasek,endow_sov,Y,,final
+PROVIDA,931588,Provida Pension Fund Administrator,AFP Provida,endow_sov,Y,,final
+OTPP,937567,Ontario Teachers' Pension Plan Board,Ontario Teachers' Pension Plan,endow_sov,Y,Y,final
+TACONIC,1390113,Taconic Capital Advisors LP,Taconic Capital,hedge,Y,Y,final
+WEISS,1357550,Weiss Asset Management LP,Weiss Asset Management,hedge,Y,Y,final
+FARALLON,909661,"Farallon Capital Management, L.L.C.",Farallon Capital,hedge,Y,Y,final
+BN,1001085,Brookfield Corporation,Brookfield,insurer,Y,Y,final
+BRK,1067983,Berkshire Hathaway Inc,Berkshire Hathaway,insurer,Y,Y,final
+PRU,1137774,"Prudential Financial, Inc.",Prudential Financial,insurer,Y,Y,final
+MIM,1529735,"MetLife Investment Management, LLC",MetLife Investment Management,insurer,Y,,final
+JUMP,1831577,"Jump Financial, LLC",Jump Financial,multi_quant,Y,Y,final
+HBK,1011443,HBK Investments L.P.,HBK Investments,multi_quant,Y,,final
+OCONNOR,1132716,"O'Connor, a distinct business unit of UBS Asset Management Americas LLC",UBS O'Connor,multi_quant,Y,,final
+POINT72,1603466,"Point72 Asset Management, L.P.",Point72,multi_quant,Y,Y,final
+KAHN,1039565,"Kahn Brothers Group, Inc.",Kahn Brothers,small_adviser,Y,,final
+OAKTREE,949509,"Oaktree Capital Management, L.P.",Oaktree Capital Management,hedge,Y,Y,final

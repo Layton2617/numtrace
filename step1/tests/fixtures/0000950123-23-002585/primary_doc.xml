@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sec.gov/edgar/thirteenffiler">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags/>
+      <filer>
+        <credentials>
+          <cik>0001067983</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2022</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2022</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Berkshire Hathaway Inc</name>
+        <address>
+          <ns1:street1>3555 Farnam Street</ns1:street1>
+          <ns1:city>Omaha</ns1:city>
+          <ns1:stateOrCountry>NE</ns1:stateOrCountry>
+          <ns1:zipCode>68131</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F COMBINATION REPORT</reportType>
+      <form13FFileNumber>028-04545</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <form13FFileNumber>28-5194</form13FFileNumber>
+          <name>New England Asset Management Inc</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Marc D. Hamburg</name>
+      <title>Senior Vice President</title>
+      <phone>402-346-1400</phone>
+      <signature>Marc D. Hamburg</signature>
+      <city>Omaha</city>
+      <stateOrCountry>NE</stateOrCountry>
+      <signatureDate>02-14-2023</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>14</otherIncludedManagersCount>
+      <tableEntryTotal>172</tableEntryTotal>
+      <tableValueTotal>299007622119</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>28-2226</form13FFileNumber>
+            <name>Berkshire Hathaway Homestate Insurance Co.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>28-5678</form13FFileNumber>
+            <name>Berkshire Hathaway Life Insurance Co of Nebraska</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>3</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>28-14389</form13FFileNumber>
+            <name>BH Finance LLC</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+

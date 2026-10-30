@@ -1,0 +1,20 @@
+# NumTrace stack: runs offline (Python 3.11). Pinned to versions verified by smoke_test.py.
+# 1. EDGAR parsing: 13F primary/info table, SGML submissions, XBRL instances, companyfacts
+edgartools==5.58.0
+# 2. Harness model layer: provider abstraction, mockllm, token usage, event logs (.eval)
+inspect_ai==0.3.268
+pydantic==2.13.3
+# 3. Frozen retrieval corpus (BM25, persisted index)
+bm25s==0.3.11
+# 5. Annotation agreement and bootstrap CIs
+statsmodels==0.15.0
+scikit-learn==1.8.0
+scipy==1.17.1
+numpy==2.4.4
+# 6. Proxy-table extraction
+pandas==3.0.2
+lxml==6.1.0
+beautifulsoup4==4.14.3
+html5lib==1.1
+# tools/extract_cassettes.py
+PyYAML==6.0.3

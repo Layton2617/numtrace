@@ -1,0 +1,56 @@
+<SEC-DOCUMENT>0009000003-23-000001.txt : 20230213
+<SEC-HEADER>0009000003-23-000001.hdr.sgml : 20230213
+ACCESSION NUMBER:		0009000003-23-000001
+CONFORMED SUBMISSION TYPE:	13F-NT
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230213
+
+FILER:
+	COMPANY DATA:
+		COMPANY CONFORMED NAME:			SYNTHETIC ALPHA SUB FUND LP
+		CENTRAL INDEX KEY:			0009000003
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-NT
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-NT</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <filer><credentials><cik>0009000003</cik><ccc>XXXXXXXX</ccc></credentials></filer>
+      <periodOfReport>12-31-2022</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2022</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>SYNTHETIC ALPHA SUB FUND LP</name>
+        <address><com:street1>1 EXAMPLE PLAZA</com:street1><com:city>NEW YORK</com:city>
+        <com:stateOrCountry>NY</com:stateOrCountry><com:zipCode>10001</com:zipCode></address>
+      </filingManager>
+      <reportType>13F NOTICE</reportType>
+      <form13FFileNumber>028-90003</form13FFileNumber>
+      <otherManagersInfo><otherManager><cik>0009000001</cik><form13FFileNumber>028-90001</form13FFileNumber><name>SYNTHETIC ALPHA CAPITAL LP</name></otherManager></otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>JANE DOE</name><title>CCO</title><phone>212-555-0100</phone>
+      <signature>/s/ Jane Doe</signature><city>NEW YORK</city><stateOrCountry>NY</stateOrCountry>
+      <signatureDate>02-13-2023</signatureDate>
+    </signatureBlock>
+    
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

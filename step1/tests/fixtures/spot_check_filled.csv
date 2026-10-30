@@ -1,0 +1,9 @@
+batch,question_id,family,sampled,appendix,slot,reviewer_A_value,reviewer_A_binding,reviewer_A_comment,reviewer_B_value,reviewer_B_binding,reviewer_B_comment
+statements,Q1,ST-EPS,yes,no,s1,1,1,,1,1,
+statements,Q1,ST-EPS,yes,no,s2,1,1,,1,0,wrong period
+statements,Q2,ST-EPS,yes,no,s1,0,1,typo,0,1,
+statements,Q2,ST-EPS,yes,no,s2,1,1,,1,1,
+13f,Q3,13F-POS,yes,no,s1,y,yes,,ok,correct,
+13f,Q3,13F-POS,yes,no,s2,na,,unsure,1,1,
+13f,Q4,13F-POS,yes,no,s1,1,1,,1,1,
+nqdc,Q5,NQDC-402I,no,yes,s1,0,0,,0,0,

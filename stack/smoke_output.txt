@@ -1,0 +1,17 @@
+NumTrace stack smoke test  (network: BLOCKED except loopback)
+python 3.11.15 | edgartools=5.58.0, inspect_ai=0.3.268, bm25s=0.3.11, statsmodels=0.15.0, scikit-learn=1.8.0, scipy=1.17.1, pandas=3.0.2, lxml=6.1.0, beautifulsoup4=4.14.3
+[PASS] 1a edgartools: 13F-HR full submissions (SGML) -> metadata + info table: 
+      0001619124-21-000002 13F-HR filed=2021-02-12 period=2020-12-31 'ACTIAM N.V.' type='13F HOLDINGS REPORT' rows=5 sum(value)=732158 cover_total=732158 median_px=1.75 filing-date-rule=thousands
+      0001790837-23-000002 13F-HR filed=2023-02-28 period=2022-12-31 'Bull Street Advisors, LLC' type='13F HOLDINGS REPORT' rows=90 sum(value)=192767 cover_total=192767 median_px=0.11 filing-date-rule=dollars
+      0001140361-23-013281 13F-HR filed=2023-03-23 period=2021-12-31 'METLIFE INC' type='13F COMBINATION REPORT' rows=6 sum(value)=11019796 cover_total=11019796 median_px=49.32 filing-date-rule=dollars
+[PASS] 1b edgartools: Kahn Q1-2022 primary+holdings XML (pre-cutover filing, values already in $): rows=46 sum=787553692 cover=787553693 ALCON value=254000 shares=3175 -> $80/sh if dollars
+[PASS] 1c edgartools: 13F-HR/A amendment type (SEC sample XML): is_amendment=True amendment_no=45 type=RESTATEMENT (synthetic SEC sample, not a real filer)
+[PASS] 1d edgartools: XBRL instance (AAPL 10-K FY2023) -> balance-sheet fact: 1164 facts; LongTermDebtNoncurrent@2023-09-30 = 95281000000
+[PASS] 1e edgartools: companyfacts JSON (AAPL) -> EntityFacts: Apple Inc.: 24579 facts; raw LongTermDebtNoncurrent FY23 = 95281000000 (accn 0000320193-23-000106, filed 2023-11-03)
+[PASS] 2 inspect_ai: mockllm + tool call, eval log records every event (offline): status=success score=1.0 events=['model', 'sample_init', 'score', 'span_begin', 'span_end', 'state', 'tool'] tool_result='95,281'
+[PASS] 3 bm25s: BM25 over 3 toy docs, numeric-preserving tokenizer, save/load snapshot: top doc=1 scores=[1.312, 1.019, 0.0]
+[PASS] 4a semantic entropy (port of jlko/semantic_uncertainty) + self-consistency, mock NLI: ids=[0, 0, 1, 0] discrete_SE=0.562 rao_SE=0.268 self-consistency=3/4
+[PASS] 4b SummaC: repo + conv checkpoint vendored (NLI backbones need huggingface -> lab infra): model_map ok, summac_conv_vitc_sent_perc_e.bin present; torch NOT installed here (expected)
+[PASS] 5 agreement: Cohen (sklearn), Fleiss (statsmodels), bootstrap CI (scipy) + cluster bootstrap: cohen=0.676 fleiss=0.667 iid95%=[0.25,1.00] cluster95%=[0.33,1.00]
+[PASS] 6 pandas.read_html+lxml+bs4: Cabot DEF 14A Item 402(i) NQDC table: raw table (6, 21); Keohane row: Sean D. Keohane  Deferred Compensation Plan  Supplemental 401(k) Plan 522,852  — 52,285  127,535 134,265  247,413 —  — 2,967,182 2,700,426
+11/11 passed

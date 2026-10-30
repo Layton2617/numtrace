@@ -1,0 +1,95 @@
+form	name	cik	period	filed	acc	schema	amend	reportType	n_rows	total	n_concepts	cassette	saved
+10-K	MICROSOFT CORP	0000789019	20130630	20130730	0001193125-13-310206							test_xbrl_periods_msft.yaml	
+10-K	MICROSOFT CORP	0000789019	20140630	20140731	0001193125-14-289961							test_xbrl_periods_msft.yaml	
+10-K	MICROSOFT CORP	0000789019	20150630	20150731	0001193125-15-272806							test_xbrl_periods_msft.yaml	
+10-K	10x Genomics, Inc.	0001770787	20191231	20200227	0001193125-20-052640							filing_text_baseline_0001193125-20-052640.yaml	
+10-K	7GC & Co. Holdings Inc.	0001826011	20221231	20230331	0001193125-23-086073							test_chunk_items_for_company_reports.yaml	
+10-K	CarMax Auto Owner Trust 2019-3	0001779026	20230228	20230526	0001779026-23-000027							test_10K_filing_with_no_financial_data.yaml	
+10-K	Apple Inc.	0000320193	20230930	20231103	0000320193-23-000106							filing_text_baseline_0000320193-23-000106.yaml	
+10-K	Tesla, Inc.	0001318605	20231231	20240129	0001628280-24-002390							test_tesla_2023_10k_item_3_does_not_overflow.yaml	
+10-K	Apple Inc.	0000320193	20240928	20241101	0000320193-24-000123							TestFeeTableExtraction.test_filing_without_fee_exhibit.yaml	
+10-K	COMCAST CORP	0001166691	20241231	20250131	0001166691-25-000011							test_xbrl_periods_comcast.yaml	
+10-K	MICROSOFT CORP	0000789019	20250630	20250730	0000950170-25-100235							TestAmendedFilingFiltering.test_latest_tenk_has_financials[msft_company].yaml	
+10-K	Apple Inc.	0000320193	20250927	20251031	0000320193-25-000079							TestAmendedFilingFiltering.test_latest_tenk_has_financials[aapl_company].yaml	
+10-K	Tesla, Inc.	0001318605	20251231	20260129	0001628280-26-003952							TestFinancialsRevenueExtraction.test_tsla_financials_revenue_not_none.yaml	
+10-K	FEDERAL HOME LOAN MORTGAGE CORP	0001026214	20251231	20260212	0001026214-26-000021							test_fmcc_10k_items_are_not_table_captions.yaml	
+10-K	Coeur Mining, Inc.	0000215466	20251231	20260218	0000215466-26-000004							test_coeur_item7_bounded_and_body_items_recovered.yaml	
+10-K	ALLSTATE CORP	0000899051	20251231	20260220	0000899051-26-000031							test_allstate_2026_10k_item_1_present.yaml	
+10-K	UNITEDHEALTH GROUP INC	0000731766	20251231	20260302	0000731766-26-000062							test_unh_2026_10k_no_spurious_part_iv_item_1.yaml	
+10-K	NATHANS FAMOUS, INC.	0000069733	20260329	20260609	0001437749-26-019923							test_nathans_famous_split_node_sections_carry_item_metadata.yaml	
+10-Q	APPLE COMPUTER INC	0000320193	20000401	20000511	0000912057-00-023442							filing_text_baseline_0000912057-00-023442.yaml	
+10-Q	Intercontinental Exchange, Inc.	0001571949	20240930	20241031	0001571949-24-000017							test_ice_10q_part_ii_item_1_is_not_a_cross_reference.yaml	
+10-Q	Broadcom Inc.	0001730168	20250202	20250312	0001730168-25-000021							test_xbrl_periods_avgo.yaml	
+10-Q	MARA Holdings, Inc.	0001507605	20250630	20250729	0001507605-25-000018							test_xbrl_periods_mara.yaml	
+10-Q	FEDERAL HOME LOAN MORTGAGE CORP	0001026214	20260331	20260430	0001026214-26-000027							test_fmcc_phantom_items_are_prevented.yaml	
+13F-HR	ACTIAM N.V.	0001619124	20201231	20210212	0001619124-21-000002			13F HOLDINGS REPORT	5	732158		test_presplit_megacap_thousands_filing_uses_fraction_not_median.yaml	fixtures/sec/13FHR/0001619124-21-000002.txt
+13F-HR	Bull Street Advisors, LLC	0001790837	20221231	20230228	0001790837-23-000002	X0202		13F HOLDINGS REPORT	90	192767		test_post_cutover_thousands_filing_is_scaled_up.yaml	fixtures/sec/13FHR/0001790837-23-000002.txt
+13F-HR	METLIFE INC	0001099219	20211231	20230323	0001140361-23-013281	X0202		13F COMBINATION REPORT	6	11019796		test_pre_cutover_dollars_filing_is_not_scaled.yaml	fixtures/sec/13FHR/0001140361-23-013281.txt
+4	Adams Katherine L.	0001462356	20220504	20220506	0000320193-22-000061							test_problem2_full_footnote_fallback_on_real_pre_checkbox_filing.yaml	
+424B2	BofA Finance LLC	0001682472		20231213	0001481057-23-010389							filing_text_baseline_0001481057-23-010389.yaml	
+424B2	BofA Finance LLC	0001682472		20241231	0001918704-24-002559							TestCoverPageExtraction.test_bofa_424b2_structured_note.yaml	
+424B2	BofA Finance LLC	0001682472		20250331	0001918704-25-005439							TestAmendmentFeeSourceFallback.test_424b_takedown_stays_none.yaml	
+424B2	BofA Finance LLC	0001682472		20250331	0001918704-25-005486							TestCoverAgentExtraction.test_bofa_selling_agent_summary_box.yaml	
+424B2	BANK OF AMERICA CORP /DE/	0000070858		20250331	0001213900-25-026186							TestCoverAgentExtraction.test_bofa_selling_agents_plural_lead_is_first.yaml	
+424B2	BofA Finance LLC	0001682472		20250331	0001918704-25-005479							TestCoverAgentExtraction.test_prose_only_agent_stays_none.yaml	
+424B4	Airbnb, Inc.	0001559720		20201211	0001193125-20-315318							TestIssue869IpoClassification.test_abnb_424b4_classified_as_ipo.yaml	
+424B4	Traws Pharma, Inc.	0001130598		20241231	0001104659-24-132924							TestCoverPageExtraction.test_traws_pharma_424b4.yaml	
+424B5	ESS Tech, Inc.	0001819438		20250331	0001628280-25-015699							TestAgencyDealAgentExtraction.test_atm_sales_agent.yaml	
+424B5	Calidi Biotherapeutics, Inc.	0001855485		20250331	0001641172-25-001350							TestAgencyDealAgentExtraction.test_cover_grid_wrapped_name_not_truncated.yaml	
+424B5	Ensysce Biosciences, Inc.	0001716947		20250331	0001641172-25-001566							TestAgencyDealAgentExtraction.test_placement_agent_defined_inline.yaml	
+424B5	CURIS INC	0001108205		20250331	0001108205-25-000026							TestAgencyDealAgentExtraction.test_registered_direct_placement_agent.yaml	
+424B5	Excelerate Energy, Inc.	0001888447		20250331	0001193125-25-068732							TestCoverAgentExtraction.test_equity_underwriter_unaffected.yaml	
+424B5	Imunon, Inc.	0000749647		20251231	0001493152-25-029712							TestConvenienceProperties.test_filing_metadata_properties.yaml	
+424B5	NEXTERA ENERGY INC	0000753308		20251231	0001193125-25-338333							TestCoverPageExtraction.test_nextera_424b5_atm.yaml	
+424B5	Alzamend Neuro, Inc.	0001677077		20260306	0001214659-26-002941							TestDeal.test_alzamend_offering_type.yaml	
+497K	JOHN HANCOCK CAPITAL SERIES	0000045291		20250626	0001193125-25-148895							TestFootnoteMarkersInValueCells.test_john_hancock_fees_are_not_glued_to_footnotes.yaml	
+497K	GMO TRUST	0000772129		20250630	0001193125-25-152548							TestFootnoteMarkersInValueCells.test_date_cells_no_longer_clobber_the_best_worst_quarter.yaml	
+8-K	EXELON CORP	0001109357	20050426	20050427	0000950137-05-004969							filing_text_baseline_0000950137-05-004969.yaml	
+8-K	BlackRock Inc.	0001364742	20230224	20230224	0001193125-23-048785							test_search_for_text_with_regex.yaml	
+8-K	NORDSTROM INC	0000072333	20230301	20230306	0000072333-23-000015							test_search_for_text_with_regex.yaml	
+8-K	ADOBE INC.	0000796343	20230315	20230315	0000796343-23-000044							test_filing_with_complex_sections.yaml	
+8-K	3M CO	0000066740	20240308	20240308	0000066740-24-000023							test_save_filing_to_directory.yaml	
+8-K	Meta Platforms, Inc.	0001326801	20251219	20251219	0001628280-25-058337							test_issue_879_meta_8k.yaml	
+8-K	NVIDIA CORP	0001045810	20260302	20260306	0001045810-26-000024							TestNvidia8KGroundTruth.test_nvidia_item_502_full_body.yaml	
+8-K	JPMORGAN CHASE & CO	0000019617	20260624	20260625	0000019617-26-000241							test_issue_879_jpm_8k.yaml	
+ATS-N	BOFA SECURITIES, INC.	0001675365		20190510	0001675365-19-000012							test_atsn_bofa_initial.yaml	
+ATS-N-W	J.P. MORGAN SECURITIES LLC	0000782124		20241223	0000019617-24-000664							test_atsn_jpm_withdrawal.yaml	
+ATS-N/UA	GOLDMAN SACHS & CO. LLC	0000042352		20231030	0000950123-23-009133							test_atsn_gs_ua.yaml	
+CORRESP	ALLTEL CORP	0000065873		20050623	0000065873-05-000060							filing_text_baseline_0000065873-05-000060.yaml	
+CORRESP	Apple Inc.	0000320193		20240429	0000320193-24-000061							TestCorrespondenceDisplay.test_correspondence_repr_succeeds.yaml	
+CORRESP	Nuvectis Pharma, Inc.	0001875558		20260218	0001104659-26-017097							TestCorrespondenceFromFiling.test_acceleration_request.yaml	
+DEF 14A	180 DEGREE CAPITAL CORP. /NY/	0000893739	20200514	20200325	0000893739-20-000019							test_filing_primary_document_for_def14a_filing.yaml	fixtures/sec/DEF14A/0000893739-20-000019.txt
+F-3	CREDIT SUISSE AG	0001053092		20230608	0001104659-23-069410							TestXn7eMisparsedTotalOfferingAmount.test_carry_forward_only_is_none_not_token.yaml	
+F-3	TR Finance LLC	0001814722		20250319	0001193125-25-057913							TestAmendmentFeeSourceFallback.test_tr_finance_f3a_recovers_from_original.yaml	
+F-3/A	TR Finance LLC	0001814722		20250331	0001193125-25-068799							TestAmendmentFeeSourceFallback.test_tr_finance_f3a_recovers_from_original.yaml	
+N-CEN	AB Active ETFs, Inc.	0001496608	20251130	20260212	0001410368-26-010918							test_ncen_etf.yaml	
+N-CEN	AB CAP FUND, INC.	0000081443	20251130	20260212	0001410368-26-010921							test_ncen_mutual_fund.yaml	
+N-CSR	ALGER PORTFOLIOS	0000832566	20251231	20260226	0001133228-26-002293							test_ncsr_annual.yaml	
+N-CSRS	AMERICAN CENTURY QUANTITATIVE EQUITY FUNDS, INC.	0000827060	20251231	20260226	0000827060-26-000002							test_ncsr_semiannual.yaml	
+POS AM	Vincerx Pharma, Inc.	0001796129		20250501	0001193125-25-110092							TestAmendmentFeeSourceFallback.test_vincerx_s3a_recovers_from_original.yaml	
+S-1	Airbnb, Inc.	0001559720		20201116	0001193125-20-294801							TestIssue868S1Underwriters.test_s1_lead_manager_is_real_underwriter.yaml	
+S-1	Learn CW Investment Corp	0001847577		20210329	0001140361-21-010426							Test4x3kAgainstFiling.test_roster_is_the_underwriter_not_the_owners.yaml	
+S-1	Acurx Pharmaceuticals, Inc.	0001736243		20230629	0001104659-23-076317							TestXn7eMisparsedTotalOfferingAmount.test_typo_summary_prefers_per_security_aggregate.yaml	
+S-1/A	Airbnb, Inc.	0001559720		20201207	0001193125-20-311265							TestIssue868S1Underwriters.test_s1a_lead_manager_is_real_underwriter.yaml	
+S-1/A	Unicycive Therapeutics, Inc.	0001766140		20210630	0001213900-21-035033							TestJi90AgainstFiling.test_lead_manager_is_the_firm_not_none.yaml	
+S-3	Anterix Inc.	0001304492		20220630	0001193125-22-186192							TestFeeTableExtraction.test_anterix_2022_pre_xbrl.yaml	
+S-3	Dragonfly Energy Holdings Corp.	0001847986		20231115	0001493152-23-041369							TestXn7eMisparsedTotalOfferingAmount.test_column_misalignment_recovers_offering_amount.yaml	
+S-3	Vincerx Pharma, Inc.	0001796129		20250124	0001193125-25-012209							TestAmendmentFeeSourceFallback.test_vincerx_s3a_recovers_from_original.yaml	
+S-3	Vigil Neuroscience, Inc.	0001827087		20250331	0001193125-25-067858							TestFeeTableExtraction.test_zxnj_vigil_avoids_footnote_table.yaml	
+S-3	Whitehawk Therapeutics, Inc.	0001422142		20250331	0001193125-25-068942							TestFeeTableExtraction.test_zxnj_whitehawk_split_tag_header.yaml	
+S-3	GCM Grosvenor Inc.	0001819796		20250627	0001213900-25-058997							TestFeeTableExtraction.test_gcm_grosvenor_carry_forward.yaml	
+S-3	ADC Therapeutics SA	0001771910		20250630	0000950103-25-008153							TestFeeTableExtraction.test_adc_therapeutics_simple_equity.yaml	
+S-3	CENTRAL PACIFIC FINANCIAL CORP	0000701347		20250630	0001140361-25-024210							TestFeeTableExtraction.test_central_pacific_universal_shelf.yaml	
+S-3/A	Vincerx Pharma, Inc.	0001796129		20250331	0001193125-25-068723							TestAmendmentFeeSourceFallback.test_vincerx_s3a_recovers_from_original.yaml	
+S-3ASR	WELLTOWER INC.	0000766704		20250328	0001193125-25-066253							TestFeeTableExtraction.test_zxnj_welltower_indeterminate_asr_is_none_not_zero.yaml	
+S-3ASR	AeroVironment Inc	0001368622		20250630	0001104659-25-064107							TestFeeTableExtraction.test_aerovironment_s3asr_deferred.yaml	
+UPLOAD	Apple Inc.	0000320193		20240402	0000000000-24-003505							TestCorrespondenceFromFiling.test_apple_upload_is_sec_comment.yaml	
+UPLOAD	Apple Inc.	0000320193		20240516	0000000000-24-005673							TestCorrespondenceFromFiling.test_apple_review_complete.yaml	
+UPLOAD	Nuvectis Pharma, Inc.	0001875558		20260218	0000000000-26-001655							TestCorrespondenceFromFiling.test_no_review_notice.yaml	
+companyfacts	COCA COLA CO	21344									726	TestCompanyTTMIntegration.test_company_get_ttm_delegates.yaml	fixtures/sec/companyfacts/CIK0000021344.json
+companyfacts	Apple Inc.	320193									505	TestCompanyTTMIntegration.test_company_income_statement_ttm_periods.yaml	fixtures/sec/companyfacts/CIK0000320193.json
+companyfacts	MICROSOFT CORPORATION	789019									546	TestCompanyTTMIntegration.test_msft_fiscal_year_labels_match_fiscal_periods.yaml	fixtures/sec/companyfacts/CIK0000789019.json
+companyfacts	AMAZON COM INC	1018724									553	test_amzn_capex_resolves_to_recent_tag.yaml	fixtures/sec/companyfacts/CIK0001018724.json
+companyfacts	ALPHABET INC.	1652044									537	test_goog_ttm_revenue_tracks_recent_window.yaml	fixtures/sec/companyfacts/CIK0001652044.json
+companyfacts	MARVELL TECHNOLOGY, INC	1835632									394	test_mrvl_cashflow_canonical_da_present.yaml	fixtures/sec/companyfacts/CIK0001835632.json
+companyfacts	NVIDIA CORP	1045810									643	test_nvda_capex_resolves_to_recent_tag.yaml	fixtures/sec/companyfacts/CIK0001045810.json

@@ -1,0 +1,1349 @@
+{
+ "320193": {
+  "key": "AAPL",
+  "neos": {
+   "FY2022": [
+    "Kate Adams"
+   ],
+   "FY2023": [
+    "Kate Adams"
+   ],
+   "FY2024": [
+    "Tim Cook",
+    "Kate Adams"
+   ],
+   "FY2025": [
+    "Tim Cook",
+    "Kate Adams"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {
+   "FY2022": [
+    {
+     "plan": "Deferred Compensation Plan",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "90%"
+    }
+   ],
+   "FY2023": [
+    {
+     "plan": "Deferred Compensation Plan",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "90%"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Deferred Compensation Plan",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "90%"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Deferred Compensation Plan",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "90%"
+    }
+   ]
+  }
+ },
+ "789019": {
+  "key": "MSFT",
+  "neos": {
+   "FY2023": [
+    "Christopher D. Young"
+   ],
+   "FY2024": [
+    "Christopher D. Young"
+   ],
+   "FY2025": [
+    "Takeshi Numoto"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {
+   "FY2023": [
+    {
+     "plan": "Microsoft\u2019s Deferred Compensation Plan",
+     "salary_deferral_max_pct": "75%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Microsoft\u2019s Deferred Compensation Plan",
+     "salary_deferral_max_pct": "75%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Microsoft\u2019s Deferred Compensation Plan",
+     "salary_deferral_max_pct": "75%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ]
+  }
+ },
+ "1341439": {
+  "key": "ORCL",
+  "neos": {
+   "FY2023": [
+    "Lawrence J. Ellison",
+    "Jeffrey O. Henley",
+    "Edward Screven"
+   ],
+   "FY2024": [
+    "Lawrence J. Ellison",
+    "Jeffrey O. Henley",
+    "Stuart Levey",
+    "Edward Screven"
+   ],
+   "FY2025": [
+    "Lawrence J. Ellison",
+    "Jeffrey O. Henley",
+    "Stuart Levey",
+    "Edward Screven"
+   ],
+   "FY2026": [
+    "Lawrence J. Ellison",
+    "Clayton M. Magouyrk",
+    "Stuart Levey"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [
+   "Cash Deferred Compensation",
+   "RSU Deferred Compensation"
+  ],
+  "deferral_limits": {}
+ },
+ "1045810": {
+  "key": "NVDA",
+  "neos": {
+   "FY2023": [
+    "Jen-Hsun Huang"
+   ],
+   "FY2024": [
+    "Jen-Hsun Huang"
+   ],
+   "FY2025": [
+    "Jen-Hsun Huang"
+   ],
+   "FY2026": [
+    "Jen-Hsun Huang"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {}
+ },
+ "50863": {
+  "key": "INTC",
+  "neos": {
+   "FY2022": [
+    "Patrick P. Gelsinger",
+    "Michelle Johnston Holthaus",
+    "Sandra L. Rivera",
+    "David A. Zinsner"
+   ],
+   "FY2023": [
+    "Patrick P. Gelsinger",
+    "Michelle Johnston Holthaus",
+    "Sandra L. Rivera",
+    "David A. Zinsner"
+   ],
+   "FY2024": [
+    "Michelle Johnston Holthaus",
+    "David A. Zinsner",
+    "Patrick P. Gelsinger"
+   ],
+   "FY2025": [
+    "David A. Zinsner",
+    "Michelle Johnston Holthaus"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {
+   "FY2022": [
+    {
+     "plan": "Intel\u2019s non-qualified deferred compensation plan",
+     "salary_deferral_max_pct": "60%",
+     "bonus_deferral_max_pct": "75%"
+    }
+   ],
+   "FY2023": [
+    {
+     "plan": "Intel\u2019s non-qualified deferred compensation plan",
+     "salary_deferral_max_pct": "60%",
+     "bonus_deferral_max_pct": "75%"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Intel\u2019s non-qualified deferred compensation plan",
+     "salary_deferral_max_pct": "60%",
+     "bonus_deferral_max_pct": "75%"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Intel\u2019s non-qualified deferred compensation plan",
+     "salary_deferral_max_pct": "60%",
+     "bonus_deferral_max_pct": "75%"
+    }
+   ]
+  }
+ },
+ "1730168": {
+  "key": "AVGO",
+  "neos": {
+   "FY2022": [
+    "Hock E. Tan"
+   ],
+   "FY2023": [
+    "Hock E. Tan"
+   ],
+   "FY2024": [
+    "Hock E. Tan"
+   ],
+   "FY2025": [
+    "Hock E. Tan"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {}
+ },
+ "1652044": {
+  "key": "GOOGL",
+  "neos": {
+   "FY2022": [
+    "Sundar Pichai"
+   ],
+   "FY2023": [
+    "Sundar Pichai"
+   ],
+   "FY2024": [
+    "Sundar Pichai"
+   ],
+   "FY2025": [
+    "Sundar Pichai"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {}
+ },
+ "1326801": {
+  "key": "META",
+  "neos": {
+   "FY2022": [
+    "Mark Zuckerberg"
+   ],
+   "FY2023": [
+    "Mark Zuckerberg"
+   ],
+   "FY2024": [
+    "Mark Zuckerberg"
+   ],
+   "FY2025": [
+    "Mark Zuckerberg"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {}
+ },
+ "1065280": {
+  "key": "NFLX",
+  "neos": {
+   "FY2022": [],
+   "FY2023": [],
+   "FY2024": [
+    "TED SARANDOS"
+   ],
+   "FY2025": [
+    "TED SARANDOS"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {}
+ },
+ "19617": {
+  "key": "JPM",
+  "neos": {
+   "FY2022": [
+    "James Dimon",
+    "Daniel Pinto",
+    "Jennifer Piepszak"
+   ],
+   "FY2023": [
+    "James Dimon",
+    "Daniel Pinto",
+    "Jennifer Piepszak"
+   ],
+   "FY2024": [
+    "James Dimon",
+    "Daniel Pinto"
+   ],
+   "FY2025": [
+    "James Dimon",
+    "Douglas Petno",
+    "Daniel Pinto"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {}
+ },
+ "886982": {
+  "key": "GS",
+  "neos": {
+   "FY2022": [
+    "Denis Coleman",
+    "Philip Berlinski",
+    "Kathryn Ruemmler"
+   ],
+   "FY2023": [
+    "Denis Coleman",
+    "Kathryn Ruemmler",
+    "Philip Berlinski"
+   ],
+   "FY2024": [
+    "Denis Coleman",
+    "Kathryn Ruemmler"
+   ],
+   "FY2025": [
+    "Denis Coleman"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [
+   "Vested and Undelivered RSUs"
+  ],
+  "deferral_limits": {}
+ },
+ "2012383": {
+  "key": "BLK",
+  "neos": {
+   "FY2022": [
+    "Laurence D. Fink",
+    "Robert S. Kapito",
+    "Robert L. Goldstein",
+    "J. Richard Kushel"
+   ],
+   "FY2023": [
+    "Laurence D. Fink",
+    "Robert S. Kapito",
+    "Robert L. Goldstein",
+    "Mark K. Wiedman"
+   ],
+   "FY2024": [
+    "Laurence D. Fink",
+    "Robert S. Kapito",
+    "Robert L. Goldstein",
+    "J. Richard Kushel"
+   ],
+   "FY2025": [
+    "Laurence D. Fink",
+    "Robert S. Kapito",
+    "Robert L. Goldstein",
+    "J. Richard Kushel"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {
+   "FY2022": [
+    {
+     "plan": "Amended and Restated BlackRock, Inc. Voluntary Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2023": [
+    {
+     "plan": "Amended and Restated BlackRock, Inc. Voluntary Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Amended and Restated BlackRock, Inc. Voluntary Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Amended and Restated BlackRock, Inc. Voluntary Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ]
+  }
+ },
+ "200406": {
+  "key": "JNJ",
+  "neos": {
+   "FY2022": [
+    "J. Duato",
+    "J. Wolk",
+    "J. Taubert",
+    "A. McEvoy",
+    "T. Mongon"
+   ],
+   "FY2023": [
+    "J. Duato",
+    "J. Wolk",
+    "J. Reed",
+    "J. Taubert",
+    "P. Fasolo",
+    "A. McEvoy"
+   ],
+   "FY2024": [
+    "J. Duato",
+    "J. Wolk",
+    "T. Schmid",
+    "J. Taubert",
+    "J. Reed"
+   ],
+   "FY2025": [
+    "J. Duato",
+    "J. Wolk",
+    "J. Taubert",
+    "J. Reed",
+    "T. Schmid"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {
+   "FY2022": [
+    {
+     "plan": "Executive Income Deferral Plan",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2023": [
+    {
+     "plan": "Executive Income Deferral Plan",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "100%"
+    },
+    {
+     "plan": "Deferred Compensation Plan",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ]
+  }
+ },
+ "59478": {
+  "key": "LLY",
+  "neos": {
+   "FY2022": [
+    "Mr. Ricks",
+    "Ms. Ashkenazi",
+    "Dr. Skovronsky",
+    "Ms. Hakim",
+    "Mr. Jonsson"
+   ],
+   "FY2023": [
+    "Mr. Ricks",
+    "Ms. Ashkenazi",
+    "Dr. Skovronsky",
+    "Ms. Hakim",
+    "Mr. Van Naarden"
+   ],
+   "FY2024": [
+    "Mr. Ricks",
+    "Mr. Montarce",
+    "Dr. Skovronsky",
+    "Ms. Hakim",
+    "Mr. Van Naarden",
+    "Mr. Brooks",
+    "Ms. Ashkenazi"
+   ],
+   "FY2025": [
+    "Mr. Ricks",
+    "Mr. Montarce",
+    "Dr. Skovronsky",
+    "Ms. Hakim",
+    "Mr. Van Naarden"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [
+   "deferred compensation",
+   "nonqualified savings"
+  ],
+  "deferral_limits": {
+   "FY2023": [
+    {
+     "plan": "Nonqualified Savings Plan",
+     "salary_deferral_max_pct": "6 percent"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Nonqualified Savings Plan",
+     "salary_deferral_max_pct": "6 percent"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Nonqualified Savings Plan",
+     "salary_deferral_max_pct": "6 percent"
+    }
+   ]
+  }
+ },
+ "731766": {
+  "key": "UNH",
+  "neos": {
+   "FY2022": [
+    "John Rex",
+    "Dirk McMahon",
+    "Brian Thompson"
+   ],
+   "FY2023": [
+    "John Rex",
+    "Dirk McMahon",
+    "Brian Thompson"
+   ],
+   "FY2024": [
+    "John Rex",
+    "Heather Cianfrocco",
+    "Christopher Zaetta",
+    "Brian Thompson"
+   ],
+   "FY2025": [
+    "Timothy Noel",
+    "Patrick Conway, M.D.",
+    "Christopher Zaetta",
+    "John Rex"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {
+   "FY2022": [
+    {
+     "plan": "Executive Savings Plan",
+     "salary_deferral_max_pct": "80%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2023": [
+    {
+     "plan": "Executive Savings Plan",
+     "salary_deferral_max_pct": "80%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Executive Savings Plan",
+     "salary_deferral_max_pct": "80%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Executive Savings Plan",
+     "salary_deferral_max_pct": "80%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ]
+  }
+ },
+ "1018724": {
+  "key": "AMZN",
+  "neos": {
+   "FY2022": [
+    "Andrew R. Jassy"
+   ],
+   "FY2023": [
+    "Andrew R. Jassy"
+   ],
+   "FY2024": [
+    "Andrew R. Jassy"
+   ],
+   "FY2025": [
+    "Andrew R. Jassy"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {}
+ },
+ "1318605": {
+  "key": "TSLA",
+  "neos": {
+   "FY2022": [
+    "Elon Musk"
+   ],
+   "FY2023": [
+    "Elon Musk"
+   ],
+   "FY2024": [
+    "Elon Musk"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {}
+ },
+ "354950": {
+  "key": "HD",
+  "neos": {
+   "FY2022": [
+    "Edward P. Decker",
+    "Craig A. Menear",
+    "Richard V. McPhail",
+    "Ann-Marie Campbell",
+    "Matthew A. Carey"
+   ],
+   "FY2023": [
+    "Edward P. Decker",
+    "Richard V. McPhail",
+    "Ann-Marie Campbell",
+    "Matthew A. Carey",
+    "Teresa Wynn Roseborough"
+   ],
+   "FY2024": [
+    "Edward P. Decker",
+    "Richard V. McPhail",
+    "Ann-Marie Campbell",
+    "William D. Bastek",
+    "Teresa Wynn Roseborough",
+    "Matthew A. Carey"
+   ],
+   "FY2025": [
+    "Edward P. Decker",
+    "Richard V. McPhail",
+    "Ann-Marie Campbell",
+    "William D. Bastek",
+    "Jordan Broggi",
+    "Hector A. Padilla"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [
+   "Deferred Compensation Plan For Officers",
+   "THD Restoration Plan"
+  ],
+  "deferral_limits": {
+   "FY2022": [
+    {
+     "plan": "Deferred Compensation Plan For Officers",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2023": [
+    {
+     "plan": "Deferred Compensation Plan For Officers",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Deferred Compensation Plan For Officers",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Deferred Compensation Plan for Officers",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ]
+  }
+ },
+ "104169": {
+  "key": "WMT",
+  "neos": {
+   "FY2023": [
+    "C. Douglas McMillon",
+    "M. Brett Biggs",
+    "Suresh Kumar",
+    "John Furner",
+    "Judith McKenna",
+    "Kathryn McLay"
+   ],
+   "FY2024": [
+    "Doug McMillon",
+    "Suresh Kumar",
+    "John Furner",
+    "Kath McLay",
+    "Chris Nicholas"
+   ],
+   "FY2025": [
+    "Doug McMillon",
+    "Suresh Kumar",
+    "John Furner",
+    "Kath McLay",
+    "Chris Nicholas"
+   ],
+   "FY2026": [
+    "Doug McMillon",
+    "John Furner",
+    "Suresh Kumar"
+   ]
+  },
+  "plan_terms": [
+   {
+    "key": "DEFINITIONS",
+    "slot": "section_definitions",
+    "plan": "WALMART DEFERRED COMPENSATION MATCHING PLAN",
+    "ask": "what does its section \"Definitions\" provide"
+   }
+  ],
+  "plans": [],
+  "deferral_limits": {
+   "FY2024": [
+    {
+     "plan": "Deferred Compensation Matching Plan",
+     "salary_deferral_max_pct": "80%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Deferred Compensation Matching Plan",
+     "salary_deferral_max_pct": "80%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2026": [
+    {
+     "plan": "Deferred Compensation Matching Plan",
+     "salary_deferral_max_pct": "80%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ]
+  }
+ },
+ "80424": {
+  "key": "PG",
+  "neos": {
+   "FY2023": [
+    "Jon R. Moeller",
+    "Andre Schulten",
+    "Ma. Fatima D. Francisco",
+    "Shailesh Jejurikar",
+    "R. Alexandra Keith"
+   ],
+   "FY2024": [
+    "Jon R. Moeller",
+    "Andre Schulten",
+    "Shailesh Jejurikar",
+    "Ma. Fatima D. Francisco",
+    "R. Alexandra Keith"
+   ],
+   "FY2025": [
+    "Jon R. Moeller",
+    "Andre Schulten",
+    "Shailesh Jejurikar",
+    "Jennifer L. Davis",
+    "Sundar Raman"
+   ],
+   "FY2026": [
+    "Shailesh G. Jejurikar",
+    "Jon R. Moeller",
+    "Andre Schulten",
+    "Gary A. Coombe",
+    "Marc S. Pritchard",
+    "Sundar G. Raman",
+    "Jennifer L. Davis",
+    "Ma. Fatima D. Francisco"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [
+   "Employee Stock and Incentive Compensation Plan",
+   "Executive Deferred Compensation Plan",
+   "International Retirement Plan",
+   "PST Restoration Program"
+  ],
+  "deferral_limits": {
+   "FY2023": [
+    {
+     "plan": "Procter & Gamble Company Executive Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "100%",
+     "salary_deferral_max_pct": "75%"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Procter & Gamble Company Executive Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "100%",
+     "salary_deferral_max_pct": "75%"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Procter & Gamble Company Executive Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "100%",
+     "salary_deferral_max_pct": "75%"
+    }
+   ],
+   "FY2026": [
+    {
+     "plan": "Procter & Gamble Company Executive Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "100%",
+     "salary_deferral_max_pct": "75%"
+    }
+   ]
+  }
+ },
+ "21344": {
+  "key": "KO",
+  "neos": {
+   "FY2022": [
+    "James Quincey",
+    "John Murphy",
+    "Alfredo Rivera",
+    "Brian J. Smith"
+   ],
+   "FY2023": [
+    "James Quincey",
+    "John Murphy",
+    "Henrique Braun",
+    "Jennifer Mann"
+   ],
+   "FY2024": [
+    "James Quincey",
+    "John Murphy",
+    "Henrique Braun",
+    "Jennifer Mann"
+   ],
+   "FY2025": [
+    "James Quincey",
+    "John Murphy",
+    "Henrique Braun",
+    "Jennifer Mann"
+   ]
+  },
+  "plan_terms": [
+   {
+    "key": "ELECTIONTODE",
+    "slot": "section_election_to_defer_compensation",
+    "plan": "THE COCA-COLA COMPANY DEFERRED COMPENSATION PLAN",
+    "ask": "what does its section \"Election to Defer Compensation\" provide"
+   }
+  ],
+  "plans": [
+   "Deferred Compensation Plan",
+   "Supplemental 401(k) Plan"
+  ],
+  "deferral_limits": {
+   "FY2022": [
+    {
+     "plan": "Deferred Compensation Plan",
+     "salary_deferral_max_pct": "80%",
+     "bonus_deferral_max_pct": "95%"
+    }
+   ],
+   "FY2023": [
+    {
+     "plan": "Deferred Compensation Plan",
+     "salary_deferral_max_pct": "80%",
+     "bonus_deferral_max_pct": "95%"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Deferred Compensation Plan",
+     "salary_deferral_max_pct": "80%",
+     "bonus_deferral_max_pct": "95%"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Deferred Compensation Plan",
+     "salary_deferral_max_pct": "80%",
+     "bonus_deferral_max_pct": "95%"
+    }
+   ]
+  }
+ },
+ "18230": {
+  "key": "CAT",
+  "neos": {
+   "FY2022": [
+    "D. James Umpleby III",
+    "Andrew R. J. Bonfield",
+    "Denise C. Johnson",
+    "Bob De Lange",
+    "Joseph E. Creed"
+   ],
+   "FY2023": [
+    "D. James Umpleby III",
+    "Andrew R. J. Bonfield",
+    "Suzette M. Long",
+    "Denise C. Johnson",
+    "Joseph E. Creed"
+   ],
+   "FY2024": [
+    "D. James Umpleby, III",
+    "Joseph E. Creed",
+    "Denise C. Johnson",
+    "Bob De Lange",
+    "Andrew R. J. Bonfield"
+   ],
+   "FY2025": [
+    "D. JAMES UMPLEBY III",
+    "JOSEPH E. CREED",
+    "ANDREW R. J. BONFIELD",
+    "BOB DE LANGE",
+    "DENISE C. JOHNSON"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [
+   "DEIP",
+   "SDCP",
+   "SEIP"
+  ],
+  "deferral_limits": {}
+ },
+ "12927": {
+  "key": "BA",
+  "neos": {
+   "FY2022": [
+    "David L. Calhoun",
+    "Brian J. West",
+    "Leanne G. Caret",
+    "Theodore Colbert III",
+    "Stanley A. Deal",
+    "Brett C. Gerry"
+   ],
+   "FY2023": [
+    "David L. Calhoun",
+    "Brian J. West",
+    "Stephanie F. Pope",
+    "Stanley A. Deal",
+    "Theodore Colbert III"
+   ],
+   "FY2024": [
+    "Robert K. Ortberg",
+    "Brian J. West",
+    "Stephanie F. Pope",
+    "Brett C. Gerry",
+    "D. Christopher Raymond",
+    "David L. Calhoun",
+    "Stanley A. Deal",
+    "Theodore Colbert III"
+   ],
+   "FY2025": [
+    "Robert K. Ortberg",
+    "Jesus Malave, Jr.",
+    "Stephanie F. Pope",
+    "Brett C. Gerry",
+    "Jeffrey S. Shockey",
+    "Brian J. West"
+   ]
+  },
+  "plan_terms": [
+   {
+    "key": "INCENTIVEMAT",
+    "slot": "section_incentive_matching_contributions",
+    "plan": "BOEING COMPANY EXECUTIVE SUPPLEMENTAL SAVINGS PLAN",
+    "ask": "what does its section \"Incentive Matching Contributions\" provide"
+   }
+  ],
+  "plans": [],
+  "deferral_limits": {}
+ },
+ "773840": {
+  "key": "HON",
+  "neos": {
+   "FY2022": [
+    "Darius Adamczyk",
+    "Gregory P. Lewis",
+    "Vimal Kapur",
+    "Anne T. Madden"
+   ],
+   "FY2023": [
+    "Vimal Kapur",
+    "Gregory P. Lewis",
+    "Anne T. Madden",
+    "Lucian Boldea",
+    "James Currier",
+    "Darius Adamczyk"
+   ],
+   "FY2024": [
+    "Vimal Kapur",
+    "Gregory P. Lewis",
+    "Anne T. Madden",
+    "Lucian Boldea",
+    "James Currier"
+   ],
+   "FY2025": [
+    "Vimal Kapur",
+    "James Currier",
+    "Billal Hammoud",
+    "Gregory P. Lewis",
+    "Lucian Boldea"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [
+   "DIC Plan",
+   "Deferred RSUs",
+   "SS Plan"
+  ],
+  "deferral_limits": {}
+ },
+ "2115436": {
+  "key": "XOM",
+  "neos": {
+   "FY2022": [
+    "D.W. Woods",
+    "K.A. Mikells",
+    "N.A. Chapman",
+    "J.P. Williams, Jr.",
+    "K.T. McKee"
+   ],
+   "FY2023": [
+    "D.W. Woods",
+    "K.A. Mikells",
+    "N.A. Chapman",
+    "J.P. Williams, Jr.",
+    "K.T. McKee"
+   ],
+   "FY2024": [
+    "D.W. Woods",
+    "K.A. Mikells",
+    "N.A. Chapman",
+    "J.P. Williams, Jr.",
+    "K.T. McKee"
+   ],
+   "FY2025": [
+    "D.W. Woods",
+    "K.A. Mikells",
+    "N.A. Chapman",
+    "J.P. Williams, Jr.",
+    "J.M. Gibbs"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {}
+ },
+ "93410": {
+  "key": "CVX",
+  "neos": {
+   "FY2022": [
+    "M.K. Wirth",
+    "P.R. Breber",
+    "J.W. Johnson",
+    "M.A. Nelson",
+    "R.H. Pate"
+   ],
+   "FY2023": [
+    "M.K. Wirth",
+    "P.R. Breber",
+    "M.A. Nelson",
+    "A.N. Hearne",
+    "R.H. Pate"
+   ],
+   "FY2024": [
+    "M.K. Wirth",
+    "E.P. Bonner",
+    "M.A. Nelson",
+    "A.N. Hearne",
+    "R.H. Pate",
+    "P.R. Breber"
+   ],
+   "FY2025": [
+    "M.K. Wirth",
+    "E.P. Bonner",
+    "M.A. Nelson",
+    "R.H. Pate",
+    "R.C. Neff"
+   ]
+  },
+  "plan_terms": [
+   {
+    "key": "SECURITIESLA",
+    "slot": "section_securities_law_requirements",
+    "plan": "CHEVRON CORPORATION DEFERRED COMPENSATION PLAN FOR MANAGEMENT EMPLOYEES II",
+    "ask": "what does its section \"SECURITIES LAW REQUIREMENTS\" provide"
+   }
+  ],
+  "plans": [],
+  "deferral_limits": {
+   "FY2022": [
+    {
+     "plan": "Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "90%",
+     "salary_deferral_max_pct": "40%"
+    }
+   ],
+   "FY2023": [
+    {
+     "plan": "Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "90%",
+     "salary_deferral_max_pct": "40%"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "90%",
+     "salary_deferral_max_pct": "40%"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "90%",
+     "salary_deferral_max_pct": "40%"
+    }
+   ]
+  }
+ },
+ "1163165": {
+  "key": "COP",
+  "neos": {
+   "FY2022": [
+    "R.M. Lance",
+    "W.L. Bullock, Jr.",
+    "T.A. Leach",
+    "K.B. Rose",
+    "N. G. Olds",
+    "D. E. Macklon"
+   ],
+   "FY2023": [
+    "R.M. Lance",
+    "W.L. Bullock, Jr.",
+    "K.B. Rose",
+    "N. G. Olds",
+    "D. E. Macklon"
+   ],
+   "FY2024": [
+    "R.M. Lance",
+    "W.L. Bullock, Jr.",
+    "N. G. Olds",
+    "K.B. Rose",
+    "A.M. O\u2019Brien"
+   ],
+   "FY2025": [
+    "R.M. Lance",
+    "A.M. O\u2019Brien",
+    "W.L. Bullock, Jr.",
+    "N. G. Olds",
+    "K.B. Rose",
+    "K.L. Johnson"
+   ]
+  },
+  "plan_terms": [
+   {
+    "key": "DEFINITIONS",
+    "slot": "section_definitions",
+    "plan": "KEY EMPLOYEE DEFERRED COMPENSATION PLAN OF CONOCOPHILLIPS TITLE II",
+    "ask": "what does its section \"Definitions\" provide"
+   }
+  ],
+  "plans": [
+   "DCMP",
+   "KEDCP"
+  ],
+  "deferral_limits": {
+   "FY2022": [
+    {
+     "plan": "Key Employee Deferred Compensation Plan",
+     "bonus_deferral_max_pct": "100 percent",
+     "salary_deferral_max_pct": "50 percent"
+    }
+   ],
+   "FY2023": [
+    {
+     "plan": "Key Employee Deferred Compensation Plan",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Key Employee Deferred Compensation Plan",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Key Employee Deferred Compensation Plan",
+     "salary_deferral_max_pct": "50%",
+     "bonus_deferral_max_pct": "100%"
+    }
+   ]
+  }
+ },
+ "831259": {
+  "key": "FCX",
+  "neos": {
+   "FY2022": [
+    "Richard C. Adkerson",
+    "Kathleen L. Quirk",
+    "Maree E. Robertson",
+    "Stephen T. Higgins",
+    "Douglas N. Currault II"
+   ],
+   "FY2023": [
+    "Richard C. Adkerson",
+    "Kathleen L. Quirk",
+    "Maree E. Robertson",
+    "Stephen T. Higgins",
+    "Douglas N. Currault II"
+   ],
+   "FY2024": [
+    "Richard C. Adkerson",
+    "Kathleen L. Quirk",
+    "Maree E. Robertson",
+    "Stephen T. Higgins",
+    "Douglas N. Currault II"
+   ],
+   "FY2025": [
+    "Kathleen L. Quirk",
+    "Richard C. Adkerson",
+    "Maree E. Robertson",
+    "Stephen T. Higgins",
+    "Douglas N. Currault II"
+   ]
+  },
+  "plan_terms": [],
+  "plans": [
+   "Deferred RSUs",
+   "NQDC plan"
+  ],
+  "deferral_limits": {
+   "FY2022": [
+    {
+     "plan": "Nonqualified Defined Contribution Plan",
+     "salary_deferral_max_pct": "20%"
+    }
+   ],
+   "FY2023": [
+    {
+     "plan": "Nonqualified Defined Contribution Plan",
+     "salary_deferral_max_pct": "20%"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Nonqualified Defined Contribution Plan",
+     "salary_deferral_max_pct": "20%"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Nonqualified Defined Contribution Plan",
+     "salary_deferral_max_pct": "20%"
+    }
+   ]
+  }
+ },
+ "1751788": {
+  "key": "DOW",
+  "neos": {
+   "FY2022": [
+    "Jim Fitterling",
+    "Howard Ungerleider",
+    "Karen S. Carter",
+    "Jane Palmieri"
+   ],
+   "FY2023": [
+    "Jim Fitterling",
+    "Howard Ungerleider",
+    "John M. Sampson",
+    "A. N. Sreeram",
+    "Amy E. Wilson"
+   ],
+   "FY2024": [
+    "Jim Fitterling",
+    "Jeffrey L. Tate",
+    "John M. Sampson",
+    "A. N. Sreeram",
+    "Amy E. Wilson",
+    "Mauro Gregorio"
+   ],
+   "FY2025": [
+    "Jim Fitterling",
+    "Jeffrey L. Tate",
+    "Karen S. Carter",
+    "A. N. Sreeram",
+    "Amy E. Wilson"
+   ]
+  },
+  "plan_terms": [
+   {
+    "key": "ADMINISTRATO",
+    "slot": "section_administrator",
+    "plan": "The Dow Chemical Company Elective Deferral Plan",
+    "ask": "what does its section \"Administrator\" provide"
+   }
+  ],
+  "plans": [],
+  "deferral_limits": {
+   "FY2022": [
+    {
+     "plan": "Dow Chemical Company Elective Deferral Plan",
+     "salary_deferral_max_pct": "75 percent",
+     "bonus_deferral_max_pct": "100 percent"
+    }
+   ],
+   "FY2023": [
+    {
+     "plan": "Elective Deferral Plan",
+     "salary_deferral_max_pct": "75 percent",
+     "bonus_deferral_max_pct": "100 percent"
+    }
+   ],
+   "FY2024": [
+    {
+     "plan": "Dow Chemical Company Elective Deferral Plan",
+     "salary_deferral_max_pct": "75 percent",
+     "bonus_deferral_max_pct": "100 percent"
+    }
+   ],
+   "FY2025": [
+    {
+     "plan": "Dow Chemical Company Elective Deferral Plan",
+     "salary_deferral_max_pct": "75 percent",
+     "bonus_deferral_max_pct": "100 percent"
+    }
+   ]
+  }
+ },
+ "1164727": {
+  "key": "NEM",
+  "neos": {
+   "FY2022": [
+    "TOM PALMER"
+   ],
+   "FY2023": [
+    "TOM PALMER"
+   ],
+   "FY2024": [
+    "TOM PALMER"
+   ],
+   "FY2025": []
+  },
+  "plan_terms": [],
+  "plans": [],
+  "deferral_limits": {}
+ }
+}
